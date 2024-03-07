@@ -41,7 +41,7 @@ void BubblesortArray() {
 		}
 		pass = pass + 1;
 
-		cout << "/nPass " << pass - 1 << ": ";
+		cout << "\nPass " << pass - 1 << ": ";
 		for (int k = 0; k < n; k++) {
 			cout << arr[k] << " ";
 
