@@ -71,5 +71,11 @@ void display() {
 
 int main()
 {
-    
+	input();
+	BubblesortArray();
+	display();
+	system("pause");
+
+	return 0;
+
 }
